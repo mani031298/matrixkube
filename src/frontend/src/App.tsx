@@ -1568,17 +1568,17 @@ function Footer() {
   ];
 
   const serviceLinks = [
-    "Cloud Consulting",
+    "Container platform consultation"
     "Kubernetes Implementation",
     "DevSecOps Services",
     "Corporate Training",
   ];
 
   const trainingLinks = [
-    "Cloud Computing",
-    "Kubernetes & Docker",
-    "DevOps & DevSecOps",
-    "IaC (Terraform/Ansible)",
+
+    "Enterprise Container platform",
+    "SRE & DevSecOps",
+    "IaC (Terraform)",
     "CI/CD Tools",
     "Cloud Security",
   ];
@@ -1714,7 +1714,7 @@ function Footer() {
             rel="noopener noreferrer"
             className="hover:text-violet transition-colors"
           >
-            Built with ❤️ using caffeine.ai
+            
           </a>
         </div>
       </div>
