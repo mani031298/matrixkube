@@ -106,7 +106,6 @@ function TechPartnerStrip() {
     { name: "GitHub Actions", color: "oklch(0.75 0.01 270)" },
     { name: "GitLab CI", color: "oklch(0.65 0.18 20)" },
     { name: "Ansible", color: "oklch(0.65 0.18 20)" },
-    { name: "Jenkins", color: "oklch(0.65 0.15 50)" },
     { name: "Helm", color: "oklch(0.65 0.2 280)" },
     { name: "ArgoCD", color: "oklch(0.65 0.22 290)" },
   ];
